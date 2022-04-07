@@ -1,2 +1,20 @@
 # AC1_LinguagemProgramacao_Facens_2Semestre
+Analise e Desenvolvimento de Sistemas
+Caio Nunes Estima Magalhães
 AC1-Criando aplicação com interface grafica com batalha de Pokemon
+
+## Classe PokemonVar: "deverá ter o algoritmo para criação de pokémon bem como a vida, defesa, dano e etc".
+  - Nesta classe criei os atributos e o constructor utilizados para obter os resultados da batalha.
+  
+## Classe Batalhar: "terá instanciados os objetos do tipo Pokémon."
+  - A Classe Batalhar recebe as condições para definir um vencedor: Analisa a fraqueza do rival e compara com o tipo do pokemon escolhido.
+
+## "Código sem erros usando orientação objetos."
+  - A identação padrão Java "Alt + Shift + F" foi utilizada em todas ass classes.
+
+## "Uso de interface gráfica (JFrame)."
+  - utilizei o Form JFrame para interagir com o usuario na escolha do pokemon (select.java) utilizando imagens do Anime Pokemon (batalha.java)e do jogo "Pokemon Gold" (Tela de carregamento)
+
+Video da aplicação em funcionamento:
+https://user-images.githubusercontent.com/89360553/162226215-febe819c-4fdb-4bef-97f4-02ed1667c551.mp4
+
