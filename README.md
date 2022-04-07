@@ -12,7 +12,6 @@
   - Squirtle X Charmander
   - Charmander X Bulbasaur
   - Bulbasaur X Squirtle
-  - 
 
 ## "Código sem erros usando orientação objetos."
   - A identação padrão Java "Alt + Shift + F" foi utilizada em todas ass classes.
