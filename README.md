@@ -8,6 +8,11 @@
   
 ## Classe Batalhar: "terá instanciados os objetos do tipo Pokémon."
   - A Classe Batalhar recebe as condições para definir um vencedor: Analisa a fraqueza do rival e compara com o tipo do pokemon escolhido.
+  - Você poderá escolher um pokemon, e ele irá "batalhar" com outro pokemon pré-selecionado, e seus nomes irão aparecer na tela com a arena de batalha:
+  - Squirtle X Charmander
+  - Charmander X Bulbasaur
+  - Bulbasaur X Squirtle
+  - 
 
 ## "Código sem erros usando orientação objetos."
   - A identação padrão Java "Alt + Shift + F" foi utilizada em todas ass classes.
