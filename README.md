@@ -1,7 +1,7 @@
 # AC1_LinguagemProgramacao_Facens_2Semestre
-Analise e Desenvolvimento de Sistemas
-Caio Nunes Estima Magalhães
-AC1-Criando aplicação com interface grafica com batalha de Pokemon
+ - Analise e Desenvolvimento de Sistemas
+ - Caio Nunes Estima Magalhães
+ - AC1-Criando aplicação com interface grafica com batalha de Pokemon
 
 ## Classe PokemonVar: "deverá ter o algoritmo para criação de pokémon bem como a vida, defesa, dano e etc".
   - Nesta classe criei os atributos e o constructor utilizados para obter os resultados da batalha.
