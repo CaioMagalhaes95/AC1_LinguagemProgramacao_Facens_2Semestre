@@ -20,5 +20,5 @@
   - utilizei o Form JFrame para interagir com o usuario na escolha do pokemon (select.java) utilizando imagens do Anime Pokemon (batalha.java)e do jogo "Pokemon Gold" (Tela de carregamento)
 
 Video da aplicação em funcionamento:
-https://user-images.githubusercontent.com/89360553/162226215-febe819c-4fdb-4bef-97f4-02ed1667c551.mp4
+https://user-images.githubusercontent.com/89360553/162587026-63cd2751-1df7-4262-9aac-c3edbf3e6d40.mp4
 
