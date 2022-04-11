@@ -14,7 +14,7 @@
   - Bulbasaur X Squirtle
 
 ## "Código sem erros usando orientação objetos."
-  - A identação padrão Java "Alt + Shift + F" foi utilizada em todas ass classes.
+  - A identação padrão Java "Alt + Shift + F" foi utilizada em todas as classes.
 
 ## "Uso de interface gráfica (JFrame)."
   - utilizei o Form JFrame para interagir com o usuario na escolha do pokemon (select.java) utilizando imagens do Anime Pokemon (batalha.java)e do jogo "Pokemon Gold" (Tela de carregamento)
